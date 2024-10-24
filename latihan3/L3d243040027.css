@@ -1,0 +1,56 @@
+
+body{
+    font-family: 'georgia';
+}
+
+h1{ 
+    font-family: 'comic sans ms';
+    font-size: 60px;
+    color: darkblue;
+}
+
+h4{
+    text-align: center;
+    font-style: italic;
+    
+}
+
+body{
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+    color: orange;
+}
+
+.test1{
+    color: red;
+    
+}
+.test1:hover{
+    color: darkorange
+}
+
+.p2:hover{
+    background-color: blue;
+    color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+div{
+    margin: -2%;
+    padding: -2;
+}
+
+image{
+    margin: -2%;
+    padding: -2%;
+}
